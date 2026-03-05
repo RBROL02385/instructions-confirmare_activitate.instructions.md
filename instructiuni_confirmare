@@ -1,6 +1,6 @@
 ---
-description: "Compune un mesaj care sa contina detaliile relevante din alerta pentru a contacta userul si a confirma activitatea"
-applyTo: "**/*.{tsx,test.tsx}"
+name: "SecOps User Confirmation Message"
+description: "Use when composing a user outreach message for a security alert, incident confirmation, or suspicious activity validation. Include IT SecOps intro, relevant alert details, and a professional non-accusatory confirmation request."
 ---
 
 # Reply Guidelines
